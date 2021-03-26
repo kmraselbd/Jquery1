@@ -1,0 +1,14 @@
+p{
+    font-size: 50px;
+    color: green;
+    
+}
+.khan{
+    display: none;
+}
+
+a{
+    font-size: 30px;
+    text-decoration: none;
+    display: none;
+}
